@@ -4,8 +4,8 @@ A Python script using the Selenium package to automate Talentum.
 
 ## Details
 
-Version 1.0
-03/09/18
+* Version 1.0
+* 03/09/18
 
 ## Installation
 
@@ -14,9 +14,10 @@ Version 1.0
 3. Input Talentum username and password into TalentumSubmit.py
 4. Run TalentumSubmit.py
 
-## Function
+## What it Does
 
-1. Open web browser and load Talentum
-2. Login to Talentum
-3. Edit Forecast
-4. Submit Forecast
+1. Opens a web browser
+2. Loads Talentum
+3. Logs into Talentum
+4. Clicks the "Edit Time Forecast" button
+4. Clicks the "Submit Forecast" button
