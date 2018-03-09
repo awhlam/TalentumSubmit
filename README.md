@@ -1,11 +1,10 @@
-# Talentum Submit
+# TalentumSubmit
 
 A Python script using the Selenium package to automate Talentum.
 
 ## Details
 
-* Version 1.0
-* 03/09/18
+03/09/18 - Version 1.0
 
 ## Installation
 
