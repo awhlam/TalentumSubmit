@@ -4,7 +4,7 @@ A Python script using the Selenium package to automate Talentum.
 
 ## Details
 
-03/09/18 - Version 1.0
+03/09/18 - Version 1.0 - Initial release
 
 ## Installation
 
