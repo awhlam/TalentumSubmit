@@ -2,7 +2,7 @@
 
 A Python script using the Selenium package to automate Talentum.
 
-## Details
+## Version History
 
 03/09/18 - Version 1.0 - Initial release
 
@@ -19,4 +19,4 @@ A Python script using the Selenium package to automate Talentum.
 2. Loads Talentum
 3. Logs into Talentum
 4. Clicks the "Edit Time Forecast" button
-4. Clicks the "Submit Forecast" button
+5. Clicks the "Submit Forecast" button
