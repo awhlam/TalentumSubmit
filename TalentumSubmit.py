@@ -17,8 +17,8 @@ browser = webdriver.Chrome(chromedriver, chrome_options=options)
 browser.get("https://apex.ftianalytics.com/ords/w_001000_0007/f?p=269:LOGIN::::::")
 
 # Submit username/password to login
-browser.find_element_by_id("P101_USERNAME").send_keys("ALAM3")
-browser.find_element_by_id("P101_PASSWORD").send_keys("2%NazqZ8Vbffgh8f")
+browser.find_element_by_id("P101_USERNAME").send_keys("USERNAME")
+browser.find_element_by_id("P101_PASSWORD").send_keys("PASSWORD")
 browser.find_element_by_id("P101_LOGIN").click()
 
 # Edit and Submit Forecast
